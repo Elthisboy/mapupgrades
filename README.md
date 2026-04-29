@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** mapupgrades
 - **Mod ID:** `mapupgrades`
-- **Version:** `1.1.4` (Resolved at build time)
+- **Version:** `1.1.4`
 
 ## Technical Summary
 The **mapupgrades** mod implements a persistent, incremental player upgrade system optimized for custom RPG or adventure maps. Using Mixins, it injects custom NBT data storage (`UpgradeDataHolder`) into the player entity to maintain upgrade progression across sessions and respawns (`ServerPlayerEvents.COPY_FROM`). The mod mathematically calculates upgrade costs based on configurable base prices and multipliers, automatically deducting funds from a required vanilla scoreboard objective named `money`. It also provides optional compatibility with `placeholder-api` to display player upgrade data.
