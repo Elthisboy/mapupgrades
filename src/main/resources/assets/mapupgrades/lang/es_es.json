@@ -1,0 +1,20 @@
+{
+  "scoreboard.mapupgrades.money": "Monedas",
+  "upgrade.mapupgrades.walk_speed": "Velocidad de Movimiento",
+  "upgrade.mapupgrades.stone_speed": "Velocidad de Picar Piedra",
+  "upgrade.mapupgrades.dirt_speed": "Velocidad de Cavar Tierra",
+  "upgrade.mapupgrades.wood_speed": "Velocidad de Talar Madera",
+  "upgrade.mapupgrades.max_health": "Salud Máxima",
+  "command.mapupgrades.info.header": "=== Tus Mejoras ===",
+  "command.mapupgrades.info.line": "%s: Nv %s / %s  (siguiente: %s monedas)",
+  "command.mapupgrades.info.line_maxed": "%s: Nv %s / %s  [MÁX]",
+  "command.mapupgrades.buy.success": "Compraste +1 %s por %s monedas.",
+  "command.mapupgrades.add.success": "+%s nivel(es) añadido(s) a %s.",
+  "command.mapupgrades.set.success": "%s establecido al nivel %s.",
+  "command.mapupgrades.reset.all": "Todas las mejoras han sido reiniciadas.",
+  "error.mapupgrades.no_money_objective": "No se encontró el objetivo del marcador de monedas.",
+  "error.mapupgrades.not_enough_money": "Necesitas %s monedas, pero solo tienes %s.",
+  "error.mapupgrades.unknown_type": "Tipo de mejora desconocido: '%s'. Prueba walk_speed, stone_speed, dirt_speed, wood_speed, max_health.",
+  "error.mapupgrades.max_level_reached": "%s ya está en el nivel máximo (%s).",
+  "command.mapupgrades.reload.success": "Configuración de MapUpgrades recargada correctamente."
+}

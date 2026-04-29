@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "mapupgrades",
+	"version": "${version}",
+	"name": "mapupgrades",
+	"description": "Incremental player upgrades for custom maps.",
+	"authors": [
+		"El_this_boy"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/mapupgrades/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.elthisboy.mapupgrades.Mapupgrades"
+		]
+	},
+	"mixins": [
+		"mapupgrades.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"placeholder-api": "*"
+	}
+}

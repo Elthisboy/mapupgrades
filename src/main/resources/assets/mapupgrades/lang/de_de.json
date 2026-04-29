@@ -1,0 +1,15 @@
+{
+  "scoreboard.mapupgrades.money": "Münzen",
+  "upgrade.mapupgrades.walk_speed": "Laufgeschwindigkeit",
+  "upgrade.mapupgrades.mining_speed": "Abbaugeschwindigkeit",
+  "upgrade.mapupgrades.woodcutting_speed": "Holzfälltempo",
+  "upgrade.mapupgrades.max_health": "Maximale Gesundheit",
+  "command.mapupgrades.info.header": "Deine Upgrades:",
+  "command.mapupgrades.info.line": "%s: %s",
+  "command.mapupgrades.buy.success": "%s für %s Münzen gekauft.",
+  "command.mapupgrades.add.success": "+%s Stufe(n) für %s.",
+  "command.mapupgrades.set.success": "%s wurde auf Stufe %s gesetzt.",
+  "error.mapupgrades.no_money_objective": "Kein Geld-Scoreboard gefunden.",
+  "error.mapupgrades.not_enough_money": "Du brauchst %s Münzen, hast aber nur %s.",
+  "command.mapupgrades.reload.success": "MapUpgrades-Konfiguration erfolgreich neu geladen."
+}

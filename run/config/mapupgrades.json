@@ -1,0 +1,32 @@
+{
+  "walk_speed": {
+    "base_price": 10,
+    "price_factor": 1.5,
+    "max_level": 30,
+    "value_per_level": 0.05
+  },
+  "stone_speed": {
+    "base_price": 10,
+    "price_factor": 1.5,
+    "max_level": 30,
+    "value_per_level": 0.25
+  },
+  "dirt_speed": {
+    "base_price": 10,
+    "price_factor": 1.5,
+    "max_level": 30,
+    "value_per_level": 0.25
+  },
+  "wood_speed": {
+    "base_price": 10,
+    "price_factor": 1.5,
+    "max_level": 30,
+    "value_per_level": 0.25
+  },
+  "max_health": {
+    "base_price": 75,
+    "price_factor": 1.8,
+    "max_level": 30,
+    "value_per_level": 0.5
+  }
+}

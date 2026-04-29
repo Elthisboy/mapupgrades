@@ -1,0 +1,20 @@
+{
+  "scoreboard.mapupgrades.money": "Coins",
+  "upgrade.mapupgrades.walk_speed": "Walk Speed",
+  "upgrade.mapupgrades.stone_speed": "Stone Speed",
+  "upgrade.mapupgrades.dirt_speed": "Dirt Speed",
+  "upgrade.mapupgrades.wood_speed": "Wood Speed",
+  "upgrade.mapupgrades.max_health": "Max Health",
+  "command.mapupgrades.info.header": "=== Your Upgrades ===",
+  "command.mapupgrades.info.line": "%s: Lv %s / %s  (next: %s coins)",
+  "command.mapupgrades.info.line_maxed": "%s: Lv %s / %s  [MAX]",
+  "command.mapupgrades.buy.success": "Bought +1 %s for %s coins.",
+  "command.mapupgrades.add.success": "+%s level(s) added to %s.",
+  "command.mapupgrades.set.success": "%s set to level %s.",
+  "command.mapupgrades.reset.all": "All upgrades have been reset.",
+  "error.mapupgrades.no_money_objective": "Money scoreboard objective not found.",
+  "error.mapupgrades.not_enough_money": "You need %s coins, but you only have %s.",
+  "error.mapupgrades.unknown_type": "Unknown upgrade type: '%s'. Try walk_speed, stone_speed, dirt_speed, wood_speed, max_health.",
+  "error.mapupgrades.max_level_reached": "%s is already at max level (%s).",
+  "command.mapupgrades.reload.success": "MapUpgrades config reloaded successfully."
+}
